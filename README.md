@@ -1,30 +1,106 @@
-# No content
+Ledger
+Connect, Organise, Thrive
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Team JF32
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/gamerztitle77-1018s-projects/v0-ledger)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/RO9FVK1ALxV)
+Members\
+• Anoosha Zeeshan (Grade 12 -- Science)\
+• Avni Yadav (Grade 12 -- B)\
+• Baria Naqvi (Grade 12 -- Science)\
+• Atika Khan (Grade 12 -- Science)
 
-## Overview
+About the Project
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Ledger is a smart school companion web application designed to transform
+how students experience academic life. More than just an organizer,
+Ledger acts as a personal assistant that keeps track of assignments,
+upcoming events, competitions, notices, and resources while also
+focusing on the mental and physical well-being of students.
 
-## Deployment
+With its personalized login system, students can access features
+tailored to their needs. From navigating school deadlines to managing
+emotional wellness with a built-in emergency button and mood tracker,
+Ledger offers a holistic digital experience. It is designed to make
+school life more structured, stress-free, and engaging.
 
-Your project is live at:
+What Makes Ledger Unique
 
-**[https://vercel.com/gamerztitle77-1018s-projects/v0-ledger](https://vercel.com/gamerztitle77-1018s-projects/v0-ledger)**
+Ledger stands apart by blending academics with student well-being in one
+platform. While other apps may only focus on assignments or notices,
+Ledger creates a complete ecosystem for school students. It not only
+manages academic schedules but also provides emotional support through
+wellness features and personalization options. The ability to change
+themes, switch between light, dark, or high contrast modes, and
+customize the appearance makes it truly student-friendly.
 
-## Build your app
+Features
 
-Continue building your app on:
+1.  Assignments and submission deadlines with subject-wise organization\
+2.  Event calendar with upcoming school activities and competitions\
+3.  Notice board for real-time school announcements\
+4.  Mood tracker with an emergency button for mental and physical health
+    support\
+5.  Personalised student login for a secure and customized experience\
+6.  Lost and found section for reporting or claiming items within the
+    school\
+7.  Notes management and an integrated e-library for quick access to
+    study materials\
+8.  Customizable appearance with light mode, dark mode, and high
+    contrast mode
 
-**[https://v0.app/chat/projects/RO9FVK1ALxV](https://v0.app/chat/projects/RO9FVK1ALxV)**
+Tech Stack
 
-## How It Works
+• Frontend: HTML5, CSS3, JavaScript with React.js\
+• Backend: Node.js and Express.js\
+• Database: Firebase or MongoDB\
+• Hosting: Vercel or Netlify
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Setup and Installation
+
+1.  Clone the public GitHub repository
+
+ bash
+git clone <repository-URL>
+
+
+2.  Navigate into the project folder
+
+ bash
+cd ledger
+
+
+3.  Install dependencies
+
+ bash
+npm install
+
+
+4.  Run the development server
+
+ bash
+npm start
+
+
+How to Use Ledger
+
+1.  Log in with your personalised student account.
+2.  Access the dashboard to see upcoming assignments, competitions,
+    events, and notices.
+3.  Add assignments, track deadlines, and manage tasks subject-wise.
+4.  Check the event calendar for a complete schedule of school
+    activities.
+5.  Stay updated with school announcements through the notice board.
+6.  Record your mood daily and use the emergency button for instant
+    access to support.
+7.  Report or claim items through the lost and found section.
+8.  Take notes, access the e-library, and personalize the app's
+    appearance with light, dark, or contrast mode.
+
+Acknowledgments
+
+Team JF32 proudly presents Ledger as an innovative school companion
+built with passion and purpose. By merging academic organization with
+wellness and personalization, Ledger is not just another school app but
+a complete ecosystem designed for students. It is our vision of how
+technology can make learning environments more supportive, inclusive,
+and future-ready.
