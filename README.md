@@ -104,3 +104,12 @@ wellness and personalization, Ledger is not just another school app but
 a complete ecosystem designed for students. It is our vision of how
 technology can make learning environments more supportive, inclusive,
 and future-ready.
+
+# Ledger  
+
+Ledger is a simple campus companion platform designed to help students connect, organize, and thrive.  
+## Demo  
+
+[Live Demo Link
+https://v0-ledger-ruddy.vercel.app/
+
